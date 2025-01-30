@@ -17,4 +17,4 @@ __pycache__/
 logs/
 *.log
 
-pose_trans/densepose_model/test.py
+pose_trans/human_parsing/self_correction_human_parsing_models/exp-schp-201908301523-atr.pth
