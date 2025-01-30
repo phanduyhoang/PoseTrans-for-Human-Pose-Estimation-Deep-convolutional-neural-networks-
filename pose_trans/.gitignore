@@ -1,0 +1,20 @@
+# Ignore DensePose model files
+densepose_model/
+transforms/densepose_model/
+
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache & compiled files
+__pycache__/
+*.pkl
+*.h5
+*.ckpt
+*.npy 
+# If you don't want to push saved numpy files
+
+# Ignore logs and temp files
+logs/
+*.log
+
+pose_trans/densepose_model/test.py
